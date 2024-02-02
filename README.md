@@ -1,4 +1,7 @@
 ### Hi there 👋
+Hi, my name is Dmitry! 
+I have been engaged in web development for more than a year and continue to study new technologies! 
+I live in Russia.
 
 <!--
 **UDEADWAY05/UDEADWAY05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
