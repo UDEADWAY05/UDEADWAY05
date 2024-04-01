@@ -1,10 +1,9 @@
 ## <div >Привет!👋</div>  
-  
+
 - 🌱 меня зовут Дмитрий!
   
 - 🥑 Живу в России!  
 <br/>
-
 ## Мой стек
 <div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -19,7 +18,7 @@
 
 <br />
 
-## My Skill Set  
+## Технологии которыми я обладаю
 
 <div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
