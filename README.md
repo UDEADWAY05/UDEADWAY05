@@ -14,8 +14,7 @@ web: https://udeadway05.github.io/Noten/
 gitHub: https://github.com/UDEADWAY05/Rick_and_Morty
 web: https://udeadway05.github.io/Rick_and_Morty/
 
-3) Hotel Web (React, MongoDB, Redux Toolkit, Docker)
-- это мой дипломный проект на курсе Junior Frontend - разработчик, сайт для отеля с номерами и панелью администратора для отслеживания бронирования номеров. 
+3) Hotel Web (React, MongoDB, Redux Toolkit, Docker) - это мой дипломный проект на курсе Junior Frontend - разработчик, сайт для отеля с номерами и панелью администратора для отслеживания бронирования номеров. 
 gitHub: https://github.com/UDEADWAY05/Hotel-web
 
 ## Мой стек:
