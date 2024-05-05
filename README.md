@@ -2,7 +2,7 @@
  - Мне 15 лет,
  - Пишу на TypeScript, React  
 
-У меня есть парочка pet-проектов и вот самые главные:
+## У меня есть парочка pet-проектов и вот самые главные:
 
 1) Notion (React, TypeScript, Vite, SCSS, TailwindCSS, Mui, PWA) - приложение заметки
 - gitHub: https://github.com/UDEADWAY05/Noten
