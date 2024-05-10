@@ -6,12 +6,13 @@
 
 1) Notion (React, TypeScript, Vite, SCSS, TailwindCSS, Mui, PWA) - приложение заметки
 - gitHub: https://github.com/UDEADWAY05/Noten
-- web: https://udeadway05.github.io/Noten/
+- web(github-pages): https://udeadway05.github.io/Noten/
+- web(vercel): https://notion-delta-three.vercel.app/login
 
 3) Rick and Morty (React, Vite, TailwindCSS, SCSS, PWA) - приложение посвящённое сериалу рик и морти там есть список всех серий, персонажей и локаций  
 
 - gitHub: https://github.com/UDEADWAY05/Rick_and_Morty
-- web: https://udeadway05.github.io/Rick_and_Morty/
+- web(github-pages): https://udeadway05.github.io/Rick_and_Morty/
 
 5) Hotel Web (React, MongoDB, Redux Toolkit, Docker) - это мой дипломный проект на курсе Junior Frontend - разработчик, сайт для отеля с номерами и панелью администратора для отслеживания бронирования номеров. 
 - gitHub: https://github.com/UDEADWAY05/Hotel-web
