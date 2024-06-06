@@ -7,7 +7,7 @@
 1) Notion (React, TypeScript, Vite, SCSS, TailwindCSS, Mui, PWA) - приложение заметки:
 - gitHub: https://github.com/UDEADWAY05/Noten
 - web(GitHub-pages): https://udeadway05.github.io/Noten/
-- web(vercel): https://notion-delta-three.vercel.app/login
+- web(vercel): https://notion-delta-three.vercel.app
 
 2) Rick and Morty (React, Vite, TailwindCSS, SCSS, PWA) - приложение посвящённое сериалу рик и морти там есть список всех серий, персонажей и локаций:
 
