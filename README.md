@@ -1,69 +1,61 @@
-## О себе:
- - Мне 18 лет
- - Пишу на TypeScript, React, Next.js  
- - Сейчас работаю над клоном Pinterest
+### Привет, я Дмитрий — Frontend / Full-stack разработчик
 
-## У меня есть парочка pet-проектов и вот самые главные:
+2 года коммерческого опыта в разработке высоконагруженных веб-приложений и аналитических дашбордов. Специализируюсь на экосистеме React / Next.js и проектировании масштабируемой фронтенд-архитектуры, активно развиваюсь в сторону бэкенда на Go, Node.js и системного программирования C++, Rust.
 
-1) Notion (React, TypeScript, Vite, SCSS, TailwindCSS, Mui, PWA) - приложение заметки:
-- gitHub: https://github.com/UDEADWAY05/Noten
-- web(GitHub-pages): https://udeadway05.github.io/Noten/
-- web(vercel): https://notion-delta-three.vercel.app
+---
 
-2) Rick and Morty (React, Vite, TailwindCSS, SCSS, PWA) - приложение посвящённое сериалу рик и морти там есть список всех серий, персонажей и локаций:
+### 💼 Коммерческий опыт
 
-- gitHub: https://github.com/UDEADWAY05/Rick_and_Morty
-- web(GitHub-pages): https://udeadway05.github.io/Rick_and_Morty/
+**Frontend Developer** *(2 года)*  
+Разработка и развитие коммерческой платформы мониторинга хостов и инфраструктуры (аналог Zabbix, DataDog, Grafana).
+- **Архитектура:** Спроектировал и провел миграцию кодовой базы на измененный **Feature-Sliced Design (FSD)**, что упростило масштабирование и онбординг новых фич.
+- **Визуализация данных:** Реализовал интерактивные дашборды и графики метрик и логов с Echarts.js.
+- **Интеграция с VictoriaMetrics API**: запрос логов, метрик, агрегация и вывод на графики. 
+- **Безопасность и инфраструктура:** Внедрил cookie-based аутентификацию, настроил контейнеризацию фронтенд-приложения через **Docker**, работа с удаленным linux сервером.
+- **Оптимизация страницы**: Виртуальные списки для таблиц с логами, оптимизация графиков с учетом количества  
+---
 
-3) Hotel Web (React, MongoDB, Redux Toolkit, Docker) - это мой дипломный проект на курсе Junior Frontend разработчик, сайт для отеля с номерами и панелью администратора для отслеживания бронирования номеров:
-- GitHub: https://github.com/UDEADWAY05/Hotel-web
+### 🚀 Пет проекты
 
-## Участие в хакатоне:
-- Я участвовал в хакатоне от Result School.
-- Темой хакатона было приложение-сайт для конвертации валют.
-- Вот техническое задание https://vladilen.notion.site/1-98d56f0443cf47eb817acfd8e6fc3837.
-- Дедлайн - 2 дня.
-- 5 человек в команде (включая тимлида).
+#### **Pinterest Clone (в активной разработке)**
+Полноценный full-stack аналог Pinterest с акцентом на производительность и умные рекомендации.
+- **Frontend:** Next.js, TypeScript, TanStack Query, Feature-Sliced Design, liquid disign.
+- **Backend & ML:** Go (`net/http`, Clean/Hexagonal Architecture, `pgxpool`), PostgreSQL + `pgvector`, Redis, MinIO (S3-хранилище), Python-воркер (CLIP-эмбеддинги для поиска и рекомендаций).
+- **AI/Инфраструктура**: Системные промпт, likeC4 диаграмма, context7, codegraph для индексации кода и уменьшения расхода токенов.
 
-### Что делал я:
-- главный компонент селектор-инпут для поиска и выбора валюты.
-- страницу избранных валют.
-- компонент для смены валют местами.
-- правки, устранение багов и других проблем, интеграция с API.
+#### **Noten** — *PWA-приложение для заметок*
+- **Стек:** React, TypeScript, Vite, Tailwind CSS, MUI, SCSS.
+- **Ссылки:** [GitHub](https://github.com/UDEADWAY05/Noten) · [Live Demo (Vercel)](https://notion-delta-three.vercel.app)
 
-### Ссылки:
-- GitHub(репозиторий проекта): https://github.com/Bellusfennec/currency-converter .
-- web(GitHub-pages): https://bellusfennec.github.io/currency-converter .
+#### **Currency Converter** — *Хакатон от Result School (команда 5 чел., дедлайн 48 часов)*
+- **Моя зона ответственности:** Архитектура и разработка главного компонента поиска/выбора валют, страница избранного, логика свапа валют, интеграция с API и багфиксинг.
+- **Ссылки:** [GitHub](https://github.com/Bellusfennec/currency-converter) · [Live Demo](https://bellusfennec.github.io/currency-converter)
 
-## Мой стек:
-<div>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-</div>
+<details>
+<summary><b>Другие проекты (учебные и ранние)</b></summary>
 
+- **Hotel Web** — сайт отеля с системой бронирования и админ-панелью (`React`, `Redux Toolkit`, `MongoDB`, `Docker`). [GitHub](https://github.com/UDEADWAY05/Hotel-web)
+- **Rick and Morty Catalog** — PWA-справочник по вселенной сериала (`React`, `Vite`, `Tailwind CSS`). [GitHub](https://github.com/UDEADWAY05/Rick_and_Morty) · [Demo](https://udeadway05.github.io/Rick_and_Morty/)
 
-## Технологии которыми я владею:
+</details>
 
-<div>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-<br />
+---
+
+### 🛠 Технологический стек
+
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend, БД и Инфраструктура:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
