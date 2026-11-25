@@ -19,7 +19,7 @@
 
 #### **Pinterest Clone (в активной разработке)**
 Полноценный full-stack аналог Pinterest с акцентом на производительность и умные рекомендации.
-- **Frontend:** Next.js, TypeScript, TanStack Query, Feature-Sliced Design, liquid disign.
+- **Frontend:** Next.js, TypeScript, TanStack Query, Feature-Sliced Design, glass disign.
 - **Backend & ML:** Go (`net/http`, Clean/Hexagonal Architecture, `pgxpool`), PostgreSQL + `pgvector`, Redis, MinIO (S3-хранилище), Python-воркер (CLIP-эмбеддинги для поиска и рекомендаций).
 - **AI/Инфраструктура**: Системные промпт, likeC4 диаграмма, context7, codegraph для индексации кода и уменьшения расхода токенов.
 
